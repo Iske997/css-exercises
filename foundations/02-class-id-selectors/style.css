@@ -1,0 +1,19 @@
+.numberOne{
+    background-color: #FFC0CB;
+    font-weight: bolder;
+}
+#numberTwo{
+    color: blue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 36px;
+}
+.numberThree{
+    background-color: #FFC0CB;
+    font-size: 26px;
+}
+#numberFour{
+    background-color: greenyellow;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 24px;
+    font-weight: bold;
+}
